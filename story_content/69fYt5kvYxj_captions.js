@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.77.30587.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.265%0D%0AQ4.%20What%20is%20one%20primary%20advantage%20of%20elearning?%0D%0A%0D%0A"}')
